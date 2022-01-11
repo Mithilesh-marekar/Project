@@ -1,0 +1,11 @@
+opencv-python
+gTTS==2.1.1
+playsound==1.2.2
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+Werkzeug==0.16.0
+gunicorn==19.9.0
+matplotlib==2.2.5
